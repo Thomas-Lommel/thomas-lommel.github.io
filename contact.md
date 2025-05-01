@@ -1,6 +1,8 @@
-# Kontakt
+---
+layout: default
+title: Kontakt
+permalink: /contact/
+---
 
-Kontaktieren Sie mich unter:
-
-✉️ thomas@example.com
+✉️ thomas@example.com  
 📍 Karlsruhe, Deutschland

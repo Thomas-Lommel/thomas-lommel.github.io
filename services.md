@@ -1,4 +1,8 @@
-# Leistungen
+---
+layout: default
+title: Leistungen
+permalink: /services/
+---
 
 - Entwicklung von Hard- und Software
 - Projektleitung & Product Ownership

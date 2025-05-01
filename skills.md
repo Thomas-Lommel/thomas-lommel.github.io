@@ -1,9 +1,8 @@
 ---
-layout: page
-title: Fähigkeiten  # oder Leistungen, Kontakt
+layout: default
+title: Fähigkeiten
 permalink: /skills/
 ---
-# Fähigkeiten
 
 - Embedded C/C++ (STM32, FreeRTOS)
 - PCB-Design & Sensorintegration
