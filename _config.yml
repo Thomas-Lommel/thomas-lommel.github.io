@@ -5,3 +5,5 @@ description: >
 baseurl: ""
 url: "https://thomaslommel.github.io"
 theme: jekyll-theme-minimal
+include:
+  - assets/css/custom.css

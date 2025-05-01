@@ -1,0 +1,19 @@
+@media (prefers-color-scheme: dark) {
+    body {
+      background-color: #121212;
+      color: #eeeeee;
+    }
+  
+    a {
+      color: #80caff;
+    }
+  
+    h1, h2, h3 {
+      color: #ffffff;
+    }
+  
+    .wrapper {
+      background-color: #121212;
+    }
+  }
+  
