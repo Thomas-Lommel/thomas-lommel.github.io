@@ -1,9 +1,7 @@
 title: Thomas Lommel
-email: thomas@example.com
+email: thomaslommelfreelancer@gmail.com
 description: >
   Embedded Systems, Product Management, Projektleitung
 baseurl: ""
 url: "https://thomaslommel.github.io"
-theme: jekyll-theme-minimal
-include:
-  - assets/css/custom.css
+theme: jekyll-theme-console

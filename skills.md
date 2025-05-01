@@ -1,3 +1,8 @@
+---
+layout: page
+title: Fähigkeiten  # oder Leistungen, Kontakt
+permalink: /skills/
+---
 # Fähigkeiten
 
 - Embedded C/C++ (STM32, FreeRTOS)
